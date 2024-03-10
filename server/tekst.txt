@@ -1,0 +1,34 @@
+Lens Studio is a dynamic platform that caters to creators of all levels, whether you're just starting out or seasoned in 2D, 3D, coding, or other creative domains. It serves as an accessible gateway to the world of augmented reality (AR), offering tools to learn, build, and share AR experiences seamlessly across Android, iOS, and desktops. With Lens Studio, you can craft visually captivating and interactive AR experiences tailored for a global audience, accessible via links, Snapcodes, or within Snapchat's Lens Explorer.
+
+**What is Lens Studio?**
+
+Lens Studio is a dedicated software designed specifically for creating shareable AR content. It empowers creators to track and augment various elements in the world with ease. You can track content to images, bodies, hands, pets, or even segment content to different elements like the sky or faces. Interactivity is also a key feature, allowing users to engage with AR experiences through gestures or body movements.
+
+**Designed Specifically for AR**
+
+Lens Studio streamlines the AR creation process by offering real-time previews both on the computer and on devices. This allows creators to see their vision come to life as they build it, facilitating a smoother workflow. Additionally, creators can easily share their finished experiences online, in the physical world, or directly through Snapchat, eliminating the need for users to download a separate app.
+
+**Lens Studio is for Everyone**
+
+Accessible to creators of all backgrounds, Lens Studio serves as a versatile tool in the creative arsenal. Whether you're delving into AR for the first time or looking to expand your skill set, Lens Studio abstracts away the complexities of computer graphics and computer vision, allowing you to focus on your creative vision.
+
+**Working with Different Elements**
+
+Lens Studio provides a plethora of features catering to various creative aspects:
+
+- **Working with Images:** Easily augment faces and the environment with existing 2D art.
+- **Working with 3D Content:** Bring 3D models to life in the real world seamlessly.
+- **Working with Machine Learning:** Integrate machine learning models to enhance AR experiences.
+- **Working with Code and Scripting:** Customize and script complex logic using JavaScript.
+- **Working with Shaders and Computer Graphics:** Create intricate shaders and graphics effortlessly.
+- **Working with No Assets:** Kickstart your creativity without any pre-existing assets.
+
+**Lens Studio Basics**
+
+With Lens Studio, the possibilities are limitless. You can build experiences ranging from simple interactions to rich, immersive games, utilizing the world or people as inputs and your creativity as the driving force.
+
+**Evolving Your Creation and Sharing Your Lens**
+
+As you evolve your creations, Lens Studio offers advanced features such as combining face and world lenses, utilizing prefabs, scripting, and sharing your AR experiences effortlessly.
+
+In summary, Lens Studio empowers creators to unleash their imagination and bring their visions to life in the dynamic realm of augmented reality. With its user-friendly interface and robust features, Lens Studio is a gateway to boundless creative exploration in AR.

@@ -42,9 +42,6 @@ Volg deze stappen om het project lokaal te installeren en uit te voeren:
 
 Als je bugs, problemen of verbeteringen vindt, meld deze dan als GitHub-issues [hier](https://github.com/bgeuze/prg8-arbrainstormer/issues). We waarderen je feedback en bijdragen!
 
-## Licentie
-
-Dit project is gelicentieerd onder de [licentienaam]. Zie het [LICENSE.md](LICENSE.md) bestand voor meer informatie.
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
